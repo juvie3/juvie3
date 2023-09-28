@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Hey there! 👋 I'm Juvenal, a passionate software developer with a relentless drive to conquer the world one line of code at a time. My journey in the tech world has been nothing short of exhilarating, and I'm just getting started.
+Hey there! 👋  I'm Juvenal, a passionate software developer with a relentless drive to conquer the world one line of code at a time. My journey in the tech world has been nothing short of exhilarating, and I'm just getting started.
 
 🌟 **Mission**: My mission is to harness the power of technology to solve real-world problems and make a positive impact on people's lives. From crafting elegant algorithms to building user-friendly applications, I'm on a mission to create meaningful software that leaves a lasting mark.
 
